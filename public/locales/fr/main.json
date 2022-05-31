@@ -1,0 +1,9 @@
+{
+  "key1": "valeur1",
+  "key2": "valeur2",
+  "key3": {
+    "key1": "valeur4",
+    "key2": "valeur5"
+  },
+  "key4": "valeur6"
+}
