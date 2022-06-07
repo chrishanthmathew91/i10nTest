@@ -6,5 +6,6 @@
     "key2": "valor5"
   },
   "key4": "valor6",
-  "key5": "value7"
+  "key5": "valor7",
+  "hello": "Hello"
 }
