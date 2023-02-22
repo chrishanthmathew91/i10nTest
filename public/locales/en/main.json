@@ -7,5 +7,6 @@
   },
   "key4": "value6",
   "key5": "value7",
-  "hello": "Hello"
+  "hello": "Hello",
+  "world": "World"
 }
